@@ -1,0 +1,11 @@
+.location_container button {
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    font-size: 15px;
+    border: none;
+    padding: 20px;
+    background-color: #012889;
+    color: #fff;
+    cursor: pointer;
+  }

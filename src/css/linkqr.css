@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.linkqr_container input {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: #00288a;
+    padding: 15px;
+    font-size: 30px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #00288a;
+    border-radius: 10px;
+  }
+  .linkqr_container p{
+    position: absolute;
+    top: 56%;
+    left: 10%;
+    color: rgb(152, 151, 151);
+  }
