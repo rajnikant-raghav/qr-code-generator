@@ -21,3 +21,13 @@
     left: 10%;
     color: rgb(152, 151, 151);
   }
+
+  @media (max-width: 767px) {
+    .linkqr_container input {
+      position: absolute;
+    top: 40%;
+    color: #00288a;
+    padding: 15px;
+    font-size: 20px;
+    }
+  }

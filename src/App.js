@@ -27,8 +27,6 @@ const App = () => {
             <Route path="/text" element={<Text/>}/>
             <Route path='/sms' element={<Sms/>}/>
           </Routes>
-          {/* <WhatsAppBarcodeGenerator /> */}
-          {/*  */}
         </div>
         <div className="display_content">
           <Displayqr />
